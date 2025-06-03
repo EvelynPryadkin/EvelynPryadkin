@@ -8,4 +8,4 @@
 🛠️ Tech Stack:  
 `C++` `Java` `Python` `React Native` `Firebase` 
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/evelynpryadkin) | [Email](evelynpryadkin@gmail.com)
+📫 Reach me: [LinkedIn] www.linkedin.com/in/evelynpryadkin | [Email] evelynpryadkin@gmail.com
