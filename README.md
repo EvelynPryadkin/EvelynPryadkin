@@ -1,7 +1,7 @@
 ### Hi, I’m Evelyn Pryadkin 👋
 
 - 🎓 CS major @ Lawrence University | 🏒 Women's Ice Hockey & 🥍 Lacrosse Goalie  
-- 🔨 Building **Community & Beyond** – an app for logging student volunteer hours  
+- 🔨 Building **ThriftLU** – an app for uploading thrifted items for your specific school.  
 - 💻 Currently learning: Full-stack dev | C++ & Java & Python |  
 - 🌍 Interning in Denmark next summer 🇩🇰  
 
