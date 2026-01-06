@@ -1,7 +1,7 @@
 ### Hi, I’m Evelyn Pryadkin 👋
 
 - 🎓 CS major @ Lawrence University | 🏒 Women's Ice Hockey & 🥍 Lacrosse Goalie    
-- 💻 Currently learning: Full-stack dev | C++ & Java & Python |  
+- 💻 Currently learning: Full-stack dev | C++ & Java & Python & R |  
 - 🌍 Interning in Denmark next summer 🇩🇰  
 
 🛠️ Tech Stack:  
