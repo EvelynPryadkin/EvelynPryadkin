@@ -1,7 +1,7 @@
 ### Hi, I’m Evelyn Pryadkin 👋
 
 - 🎓 CS major @ Lawrence University   
-- 💻 Currently learning: Full-stack dev and Cloud Engineering | C++ & Python & R |  
+- 💻 Currently learning: Full-stack dev and Cloud Engineering | C# & Python & R |  
 
 🛠️ Tech Stack:  
 `C++` `Java` `Python`
